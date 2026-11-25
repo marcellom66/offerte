@@ -1,0 +1,1524 @@
+{
+  "generato_il": "2026-11-25",
+  "offerte": [
+    {
+      "prodotto": "50 cl bicchieri",
+      "prezzo": 34.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 17,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "70 cl bicchieri",
+      "prezzo": 32.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 17,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "75 cl bicchieri",
+      "prezzo": 23.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 13,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "__——* (UALITÀ",
+      "prezzo": 12.95,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 4,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "AGRESTE Drink",
+      "prezzo": 19.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 4,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "all'etto",
+      "prezzo": 18.5,
+      "prezzo_kg": "© 18,50 al kg",
+      "catena": "Conad",
+      "pagina": 8,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "all'etto",
+      "prezzo": 29.9,
+      "prezzo_kg": "€ 29,90 al kg",
+      "catena": "Conad",
+      "pagina": 24,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "all'olio oliva",
+      "prezzo": 150.91,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 1,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "ALLE MANDORLE Siciliani",
+      "prezzo": 8.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 10,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Anima Grechetto Montefalco Rosso",
+      "prezzo": 35.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 14,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Ariccia Albano Zona Somaschi DbI9I6t1",
+      "prezzo": 56.25,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 23,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "ARNANANI- Io HA06",
+      "prezzo": 14.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 2,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "assortito fondente/ assortito amabile",
+      "prezzo": 8.49,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 10,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Baci Perugina",
+      "prezzo": 87.5,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 9,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "Baladin bicchiere teku",
+      "prezzo": 23.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 12,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Bertani Amarone Valpolicella",
+      "prezzo": 55.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 14,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "bianca riserva",
+      "prezzo": 31.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 17,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "bicchiere",
+      "prezzo": 16.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 12,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "bicchiere staﬀ legno",
+      "prezzo": 27.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 13,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "blond cinq cents/ première 75 cl",
+      "prezzo": 12.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 12,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Bolgheri Rosso Vermentino",
+      "prezzo": 34.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 15,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "BONSAI BON NATALE IN IN CERAMICA",
+      "prezzo": 19.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 19,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "BONSAI BON NATALE IN IN CERAMICA",
+      "prezzo": 1.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 19,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "BOTTIGLIE Fontanafredda",
+      "prezzo": 39.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 15,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "BUD SPENCER",
+      "prezzo": 1.89,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 1,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "Cala Reale Medeus",
+      "prezzo": 31.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 14,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Cantina Villa Gianna Circeo Bianco Circeo Rosso",
+      "prezzo": 8.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 15,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Casella Olive naturale Villa Reale 290 g Tarallini pomodoro origano Te",
+      "prezzo": 27.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 6,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "CASSETTA REGALO DOLCIARIA Munus",
+      "prezzo": 29.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 7,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "CASSETTA REGALO GASTRONOMICA Munus",
+      "prezzo": 29.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 7,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Castagner 50 cl bicchieri gioco",
+      "prezzo": 39.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 17,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Castagner 50 cl gioco",
+      "prezzo": 21.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 17,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Cave Calletastà Via Sgerione Carso Garibaldi Be94",
+      "prezzo": 17.4,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 23,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "CESTA GOLOSITÀ Villa Guelfa",
+      "prezzo": 32.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 3,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Chouﬀ 2x75 bicchiere",
+      "prezzo": 12.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 13,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Chouﬀ 4x33 bicchiere",
+      "prezzo": 13.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 13,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "ciotola diametro cm",
+      "prezzo": 13.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 19,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "ciotola diametro cm",
+      "prezzo": 90.23,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 19,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "CONSEGNA GRATUITA",
+      "prezzo": 5.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 19,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Crema lardo alle erbe",
+      "prezzo": 37.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 6,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "delicatezzalsensitive! wxtra fresh",
+      "prezzo": 2.59,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 3,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "DISPENSA ITALIANA Maestri Artigiani",
+      "prezzo": 29.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 7,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "dolci scoperte g/ atelier le golosità osità 411 g",
+      "prezzo": 16.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 10,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "dolci scoperte g/ atelier le golosità osità 411 g",
+      "prezzo": 90.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 10,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "doppia parete",
+      "prezzo": 0.51,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 21,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "D’Altavilla",
+      "prezzo": 49.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 18,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "Etsu Japanese Gin 70 cl bicchiere",
+      "prezzo": 39.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 16,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Ferrero 24 pezzi 269 g",
+      "prezzo": 9.49,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 11,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "FILETS GATTO",
+      "prezzo": 1.6,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 21,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "GELSOMINO Regalidea",
+      "prezzo": 19.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 5,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Generous Gin 70 cl bicchieri",
+      "prezzo": 28.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 16,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "GHIRLANDA NATALE",
+      "prezzo": 23.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 19,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Gin Mare 70 cl bicchieri",
+      "prezzo": 39.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 16,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Gin Mg 70 cl bicchieri",
+      "prezzo": 19.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 16,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "GRAN EMILIA Le Cadeau Rovere",
+      "prezzo": 45.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 2,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "GRAN GOURMET Le Cadeau Rovere",
+      "prezzo": 19.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 4,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "GRANDE RÉSERVE",
+      "prezzo": 1.5,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 12,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "Greco Tufo Aglianico",
+      "prezzo": 45.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 14,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "IEFRO ERIDANIA",
+      "prezzo": 1.59,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 6,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "ig gustoso/dinamico",
+      "prezzo": 19.07,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 3,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "IN LEGNO LUCINE",
+      "prezzo": 9.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 19,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "inogni momento della giornata.",
+      "prezzo": 2.15,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 16,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "Jeﬀ erson 70 cl Thun",
+      "prezzo": 39.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 17,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Karmeliet 75 cl bicchieri",
+      "prezzo": 24.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 13,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Lacryma Christi Rosso Falanghina Spumante",
+      "prezzo": 29.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 15,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "lavaggi",
+      "prezzo": 1054.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 20,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "lavaggi",
+      "prezzo": 229.1,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 22,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "Lindor Lindt vari tipi 287 g",
+      "prezzo": 11.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 11,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "MARIO PIZZOLI",
+      "prezzo": 259.3,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 7,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "Mazzetti D’Altavilla",
+      "prezzo": 19.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 18,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "MINI COTECHINO MODENA LG.P.",
+      "prezzo": 2.59,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 7,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "minima mesi",
+      "prezzo": 200.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 7,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "misurini",
+      "prezzo": 5.25,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 21,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "MIX TERRARIUM cupola/sfera",
+      "prezzo": 18.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 19,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "MONTEFALCO Scacciadiavoli",
+      "prezzo": 1.5,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 14,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Montevarda fiztia Astica Vila tia dei Castri Colli Fusano, Partanosi, ",
+      "prezzo": 0.2,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 23,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "NATALE Casella",
+      "prezzo": 42.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 3,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Nero D’Avola Inzolia",
+      "prezzo": 19.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 15,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "NOCCIOLE TOSTATE PELATE",
+      "prezzo": 9.39,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 3,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Nordés Gin 70 cl bicchiere",
+      "prezzo": 27.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 16,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "ORE LIETE Perugia",
+      "prezzo": 6.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 11,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "original boero/collection 170 g spumante 75 cl",
+      "prezzo": 9.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 10,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "origine Italia",
+      "prezzo": 3.18,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 3,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "origine Italia 1*categoria cal, BV9S",
+      "prezzo": 1.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 2,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "ORO NERO Le Cadeau Rovere",
+      "prezzo": 34.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 2,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "PALLINA IN CERAMICA CA",
+      "prezzo": 12.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 19,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "PALLINA IN CERAMICA CA",
+      "prezzo": 90.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 19,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "panettone classico kg/ pandoro classico 750 g",
+      "prezzo": 11.5,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 8,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Panettone/Pandoro Melegatti 500 g Le Cadeau Rovere Spumante millesimat",
+      "prezzo": 12.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 8,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "partireda",
+      "prezzo": 245.1,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 22,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "peperoncino",
+      "prezzo": 1.69,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 6,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "Pernigotti classici/assortiti 127 g",
+      "prezzo": 6.99,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 10,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Perugina",
+      "prezzo": 37.5,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 9,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "PERUGINA prestige Arsaia 75 cl Italtrade Dolce noir tartufone Motta 65",
+      "prezzo": 32.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 9,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Planteray 70 cl bicchieri",
+      "prezzo": 39.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 16,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "pn COLORATI",
+      "prezzo": 1.55,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 9,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "POMODORO VALFRUTTA",
+      "prezzo": 0.7,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 11,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Psa IRSA) PRIMAVERA FINDUS",
+      "prezzo": 1200.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 11,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "ralaxmg zen rril",
+      "prezzo": 535.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 22,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "ratio BECOTTI",
+      "prezzo": 2.5,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 7,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Regalidea pandoro/panettone",
+      "prezzo": 27.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 8,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "rete",
+      "prezzo": 1.5,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 2,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "rila",
+      "prezzo": 3.79,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 6,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "RISERVA TRE BOTTI Vecchia Romagna",
+      "prezzo": 28.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 16,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Rosso Montalcino Vermentino Badalei",
+      "prezzo": 31.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 14,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "RÉSERVE Chimay",
+      "prezzo": 11.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 12,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "SAGRANTINO MONTEFALCO D.0,C.G, CAPRA]",
+      "prezzo": 2390.75,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 19,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "SALMONE TRANCI",
+      "prezzo": 6.95,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 5,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "SALMONE TRANCI",
+      "prezzo": 3.89,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 5,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "SALMONE TRANCI",
+      "prezzo": 3.99,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 5,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "San Santi Felico Comma Ciocro Via Home Via",
+      "prezzo": 197.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 23,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "SAPORI D’ITALIA Le Cadeau Rovere",
+      "prezzo": 11.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 5,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "SASSOFONO Mazzetti D’Altavilla",
+      "prezzo": 39.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 18,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "SPALMABILE NOMI",
+      "prezzo": 3.89,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 17,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "SUINO",
+      "prezzo": 5.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 4,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "T*categoria",
+      "prezzo": 259.15,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 2,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "TARDIVA Distilleria Bottega",
+      "prezzo": 16.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 17,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Tatenti Via Francesco Oibvidia",
+      "prezzo": 99.47,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 23,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "TENDERLY",
+      "prezzo": 199.4,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 7,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "TestacciaiBicamide Pira Bottega, PASTADIO cu pu pae Dievano Romano Wia",
+      "prezzo": 1300.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 23,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "tradizionale/senza canditi alla mediterranea/",
+      "prezzo": 10.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 9,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "tradizionale/senza canditi alla mediterranea/ all’arrabbiata 450 g",
+      "prezzo": 9.49,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 9,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "trancio",
+      "prezzo": 1.5,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 2,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "Trappe 4x33 bicchiere",
+      "prezzo": 12.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 12,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "traﬁ late in bronzo ad essiccazione lenta",
+      "prezzo": 17.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 6,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Uistia fuariicciolo Lido Vila Via Guido Corsersano Wincon, ang. ang. f",
+      "prezzo": 2000.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 23,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "ultra So.mi",
+      "prezzo": 44.99,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 22,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "Ustia Lido Vila Stella Polare, 4E bet S63",
+      "prezzo": 929.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 23,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "VALDOBBIADENE Carpenè Malvolti",
+      "prezzo": 1.5,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 11,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "VANOIR Le Cadeau Rovere",
+      "prezzo": 17.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 10,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Vareli Veroli Lac. Lac. Giglio Casamari, feroli Mia San Wia Cristolara",
+      "prezzo": 60.19,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 23,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "vari tipi 100 g",
+      "prezzo": 16.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 17,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "vari tipi 70 cl",
+      "prezzo": 6.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 14,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "VEGETALE BAUER",
+      "prezzo": 1.39,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 1,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "Via He.",
+      "prezzo": 27.39,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 23,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "Via Malatesta",
+      "prezzo": 59.2,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 23,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "Via Via elfi km",
+      "prezzo": 1000.0,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 23,
+      "valido_fino": "2026-11-28",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "Westmalle 3x33 bicchiere",
+      "prezzo": 19.9,
+      "prezzo_kg": "",
+      "catena": "Conad",
+      "pagina": 13,
+      "valido_fino": "2026-12-12",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "(fondente extra",
+      "prezzo": 2.49,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 24,
+      "valido_fino": "",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "alkg",
+      "prezzo": 1.0,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 3,
+      "valido_fino": "",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "alkg",
+      "prezzo": 2.74,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 10,
+      "valido_fino": "",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "ANALCOLICO",
+      "prezzo": 3.69,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 14,
+      "valido_fino": "",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "BUONA SPESA! trafilata bronzo",
+      "prezzo": 0.99,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 1,
+      "valido_fino": "",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "Camillo riconoscerà",
+      "prezzo": 0.05,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 21,
+      "valido_fino": "",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "Capacità aspirazione",
+      "prezzo": 0.9,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 34,
+      "valido_fino": "",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "DALL'ITALIA",
+      "prezzo": 2.89,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 2,
+      "valido_fino": "",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "Disponibile anche su sli |) WEB STORE",
+      "prezzo": 1.99,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 11,
+      "valido_fino": "",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "DOCG CII75",
+      "prezzo": 2.69,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 6,
+      "valido_fino": "",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "ecoricarica o.",
+      "prezzo": 1.5,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 10,
+      "valido_fino": "",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "friabile",
+      "prezzo": 1.5,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 16,
+      "valido_fino": "",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "GAMBERI ZUCCHINE",
+      "prezzo": 2.49,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 5,
+      "valido_fino": "",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "giorni",
+      "prezzo": 7.0,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 35,
+      "valido_fino": "",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "giorni",
+      "prezzo": 2.0,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 36,
+      "valido_fino": "",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "giorni",
+      "prezzo": 3.0,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 36,
+      "valido_fino": "",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "HAPPYFRESH",
+      "prezzo": 1.5,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 6,
+      "valido_fino": "",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "igienizzante",
+      "prezzo": 1.69,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 24,
+      "valido_fino": "",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "LETTERE DALL'ITALIA",
+      "prezzo": 2.49,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 23,
+      "valido_fino": "",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "NATALIZI TOVAGLIOLI Sf Pi",
+      "prezzo": 1.99,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 18,
+      "valido_fino": "",
+      "confidenza": 0.6
+    },
+    {
+      "prodotto": "ono n° ONG, peso pelati sgocc",
+      "prezzo": 0.89,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 24,
+      "valido_fino": "",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "pelli sensibili",
+      "prezzo": 1.99,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 9,
+      "valido_fino": "",
+      "confidenza": 0.55
+    },
+    {
+      "prodotto": "selezione",
+      "prezzo": 4.89,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 3,
+      "valido_fino": "",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "VEGETALE attivi",
+      "prezzo": 4.99,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 37,
+      "valido_fino": "",
+      "confidenza": 0.8
+    },
+    {
+      "prodotto": "€1361alkg",
+      "prezzo": 95.0,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 13,
+      "valido_fino": "",
+      "confidenza": 0.45
+    },
+    {
+      "prodotto": "€498alkg BEPPE",
+      "prezzo": 3.0,
+      "prezzo_kg": "",
+      "catena": "MD",
+      "pagina": 13,
+      "valido_fino": "",
+      "confidenza": 0.6
+    }
+  ],
+  "volantini": [
+    {
+      "catena": "Conad",
+      "nome": "Offerte 24 Lazio",
+      "url": "https://www.conad.it/assets/common/volantini/pac/v2025-/2025-24-conad-lazio.pdf",
+      "offerte": 45,
+      "pagine_con_testo": 24,
+      "pagine_immagine": []
+    },
+    {
+      "catena": "Conad",
+      "nome": "Integrativa Lazio",
+      "url": "https://www.conad.it/assets/common/volantini/pac/vinteg/integrativa-24-lazio.pdf",
+      "offerte": 7,
+      "pagine_con_testo": 8,
+      "pagine_immagine": []
+    },
+    {
+      "catena": "Conad",
+      "nome": "Catalogo regali Natale",
+      "url": "https://www.conad.it/assets/common/volantini/pac/vcatal/catalogo-regali-natale-2026-lazio.pdf",
+      "offerte": 82,
+      "pagine_con_testo": 20,
+      "pagine_immagine": []
+    },
+    {
+      "catena": "Conad",
+      "nome": "Volantino con QR offerte",
+      "url": "https://www.conad.it/assets/common/volantini/pac/vqrcod/qrcode-24-lazio.pdf",
+      "offerte": 4,
+      "pagine_con_testo": 3,
+      "pagine_immagine": []
+    },
+    {
+      "catena": "MD",
+      "nome": "Esempio: volantino area (mettere la sua zona)",
+      "url": "https://www.mdspa.it/cdn/upload/presente/volantini/sud-na-macel-na-gastro/volantino.pdf",
+      "offerte": 26,
+      "pagine_con_testo": 37,
+      "pagine_immagine": []
+    }
+  ],
+  "avvisi": []
+}
