@@ -1,10 +1,9 @@
 {
   "esito": "success",
   "generato_il": "2026-11-26",
-  "offerte": 1926,
+  "offerte": 422,
   "catene": [
     "Conad",
-    "Esselunga",
     "Lidl",
     "MD",
     "PIM"
@@ -36,11 +35,6 @@
       "offerte": 26
     },
     {
-      "catena": "Esselunga",
-      "nome": "Roma Lattanzio",
-      "offerte": 1522
-    },
-    {
       "catena": "PIM",
       "nome": "Pim-Agorà-Iperfamily",
       "offerte": 232
@@ -53,7 +47,7 @@
   ],
   "avvisi": [
     "Pam - Panorama (link del 22/10-4/11: da aggiornare ogni settimana): spento (attivo: false)",
-    "Esselunga: 1522 offerte da 5 volantini digitali (dati dell'API)",
+    "Esselunga - Roma Lattanzio (spenta: nessun negozio vicino): spento (attivo: false)",
     "Lidl: 31 offerte dai volantini con il testo dentro"
   ]
 }
