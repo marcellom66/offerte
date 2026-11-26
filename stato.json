@@ -1,14 +1,15 @@
 {
   "esito": "success",
   "generato_il": "2026-11-26",
-  "offerte": 1668,
+  "offerte": 1921,
   "catene": [
     "Conad",
     "Esselunga",
-    "MD"
+    "MD",
+    "PIM"
   ],
   "avvisi": [
     "Pam - Panorama (link del 22/10-4/11: da aggiornare ogni settimana): spento (attivo: false)",
-    "Esselunga: 1522 offerte da 5 volantini digitali (dati dell'API)"
+    "Esselunga: 1548 offerte da 5 volantini digitali (dati dell'API)"
   ]
 }
