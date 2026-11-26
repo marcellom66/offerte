@@ -1,15 +1,52 @@
 {
   "esito": "success",
   "generato_il": "2026-11-26",
-  "offerte": 1895,
+  "offerte": 1921,
   "catene": [
     "Conad",
     "Esselunga",
     "MD",
     "PIM"
   ],
+  "volantini": [
+    {
+      "catena": "Conad",
+      "nome": "Offerte 24 Lazio",
+      "offerte": 45
+    },
+    {
+      "catena": "Conad",
+      "nome": "Integrativa Lazio",
+      "offerte": 7
+    },
+    {
+      "catena": "Conad",
+      "nome": "Catalogo regali Natale",
+      "offerte": 82
+    },
+    {
+      "catena": "Conad",
+      "nome": "Volantino con QR offerte",
+      "offerte": 4
+    },
+    {
+      "catena": "MD",
+      "nome": "Esempio: volantino area (mettere la sua zona)",
+      "offerte": 26
+    },
+    {
+      "catena": "Esselunga",
+      "nome": "Roma Lattanzio",
+      "offerte": 1548
+    },
+    {
+      "catena": "PIM",
+      "nome": "Pim-Agorà-Iperfamily",
+      "offerte": 232
+    }
+  ],
   "avvisi": [
     "Pam - Panorama (link del 22/10-4/11: da aggiornare ogni settimana): spento (attivo: false)",
-    "Esselunga: 1522 offerte da 5 volantini digitali (dati dell'API)"
+    "Esselunga: 1548 offerte da 5 volantini digitali (dati dell'API)"
   ]
 }
