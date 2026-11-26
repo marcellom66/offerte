@@ -1,7 +1,7 @@
 {
   "esito": "success",
   "generato_il": "2026-11-26",
-  "offerte": 422,
+  "offerte": 1015,
   "catene": [
     "Conad",
     "Lidl",
@@ -12,12 +12,12 @@
     {
       "catena": "Conad",
       "nome": "Offerte 24 Lazio",
-      "offerte": 45
+      "offerte": 302
     },
     {
       "catena": "Conad",
       "nome": "Integrativa Lazio",
-      "offerte": 7
+      "offerte": 78
     },
     {
       "catena": "Conad",
@@ -27,12 +27,12 @@
     {
       "catena": "Conad",
       "nome": "Volantino con QR offerte",
-      "offerte": 4
+      "offerte": 26
     },
     {
       "catena": "MD",
       "nome": "Esempio: volantino area (mettere la sua zona)",
-      "offerte": 26
+      "offerte": 270
     },
     {
       "catena": "PIM",
