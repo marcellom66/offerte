@@ -1,7 +1,7 @@
 {
   "esito": "success",
   "generato_il": "2026-11-26",
-  "offerte": 1020,
+  "offerte": 1033,
   "catene": [
     "Conad",
     "Lidl",
@@ -12,7 +12,7 @@
     {
       "catena": "Conad",
       "nome": "Offerte 24 Lazio",
-      "offerte": 303
+      "offerte": 302
     },
     {
       "catena": "Conad",
@@ -31,8 +31,8 @@
     },
     {
       "catena": "MD",
-      "nome": "Esempio: volantino area (mettere la sua zona)",
-      "offerte": 274
+      "nome": "Roma (Via di Vermicino)",
+      "offerte": 287
     },
     {
       "catena": "PIM",
@@ -46,6 +46,7 @@
     }
   ],
   "avvisi": [
+    "MD: 287 offerte dal volantino di ROMA (zona sud-macel-gastro, valido fino al 2026-11-29)",
     "Pam - Panorama (link del 22/10-4/11: da aggiornare ogni settimana): spento (attivo: false)",
     "Esselunga - Roma Lattanzio (spenta: nessun negozio vicino): spento (attivo: false)",
     "Lidl: 31 offerte dai volantini con il testo dentro"
