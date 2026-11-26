@@ -1,7 +1,7 @@
 {
   "esito": "success",
   "generato_il": "2026-11-26",
-  "offerte": 1036,
+  "offerte": 1488,
   "catene": [
     "Conad",
     "Lidl",
@@ -37,7 +37,7 @@
     {
       "catena": "PIM",
       "nome": "Pim-Agorà-Iperfamily",
-      "offerte": 232
+      "offerte": 681
     },
     {
       "catena": "Lidl",
