@@ -1,7 +1,7 @@
 {
   "esito": "success",
-  "generato_il": "2026-11-26",
-  "offerte": 1491,
+  "generato_il": "2026-11-27",
+  "offerte": 1492,
   "catene": [
     "Conad",
     "Lidl",
@@ -32,12 +32,12 @@
     {
       "catena": "MD",
       "nome": "Roma (Via di Vermicino)",
-      "offerte": 292
+      "offerte": 291
     },
     {
       "catena": "PIM",
       "nome": "Pim-Agorà-Iperfamily",
-      "offerte": 681
+      "offerte": 682
     },
     {
       "catena": "Lidl",
@@ -46,7 +46,7 @@
     }
   ],
   "avvisi": [
-    "MD: 292 offerte dal volantino di ROMA (zona sud-macel-gastro, valido fino al 2026-11-29)",
+    "MD: 291 offerte dal volantino di ROMA (zona sud-macel-gastro, valido fino al 2026-11-29)",
     "Pam - Panorama (link del 22/10-4/11: da aggiornare ogni settimana): spento (attivo: false)",
     "Esselunga - Roma Lattanzio (spenta: nessun negozio vicino): spento (attivo: false)",
     "Lidl: 31 offerte dai volantini con il testo dentro"
